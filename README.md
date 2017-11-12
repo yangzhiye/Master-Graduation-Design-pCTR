@@ -5,11 +5,11 @@
 
 ## (2). 目前进展
 
-### 1. 基本特征提取 (Done)
-### 2. LR计算BaseLine (Done)
-### 3. FM计算BaseLine (Done)
-### 4. FM及其拓展论文阅读 (Doing)
-### 5. embedding + dnn实现与调研 (Doing)
+#### 1. 基本特征提取 (Done)
+#### 2. LR计算BaseLine (Done)
+#### 3. FM计算BaseLine (Done)
+#### 4. FM及其拓展论文阅读 (Doing)
+#### 5. embedding + dnn实现与调研 (Doing)
 
 ## (3). BaseLine与结果
 
